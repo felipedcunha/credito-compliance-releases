@@ -1,0 +1,9 @@
+{
+  "ultimaVersao": "1.2.0",
+  "download": "https://github.com/felipedcunha/credito-compliance-releases/releases/latest",
+  "notas": "",
+  "bypass": {
+    "salt": "2b3f0fde566c06a965b064b0aaefde52",
+    "hash": "bf211308d42afd2ad4ee321aa7c9e403aff2070bcc8125191a5d43e70360c1161aeff0e69ab44e6dcb04c2f104867ba3ede9d342998764504dc354306c836ae3"
+  }
+}
